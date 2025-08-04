@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd web-react-youtubedl && bun run build",
+  "outputDirectory": "web-react-youtubedl/dist",
+  "framework": "vite",
+  "ignoreCommand": "echo Ignored server folder"
+}
